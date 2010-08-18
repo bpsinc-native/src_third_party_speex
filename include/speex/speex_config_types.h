@@ -33,7 +33,6 @@
 
 */
 
-#ifndef SPEEX_H
 #ifndef __SPEEX_TYPES_H__
 #define __SPEEX_TYPES_H__
 
