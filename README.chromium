@@ -1,6 +1,8 @@
 Name: speex
 URL: http://downloads.xiph.org/releases/speex/speex-1.2rc1.tar.gz
+Version: 1.2.rc1
 
+Description:
 This contains a copy of speex-1.2.rc1
 
 This library is required for the browser to compress and encode recorded audio
