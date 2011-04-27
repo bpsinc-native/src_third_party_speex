@@ -87,6 +87,7 @@
               'include',  # Clients expect <speex/speex.h> to be a system header.
             ],
           },
+          'msvs_disabled_warnings': [4244, 4305],
         },
       ],
     }, { # use_system_speex != 0
