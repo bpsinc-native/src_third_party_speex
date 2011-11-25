@@ -94,7 +94,7 @@
       'targets': [
         {
           'target_name': 'libspeex',
-          'type': 'settings',
+          'type': 'none',
           'direct_dependent_settings': {
             'cflags': [
               '<!@(pkg-config --cflags speex)',
