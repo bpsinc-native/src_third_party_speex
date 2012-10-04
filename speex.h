@@ -11,8 +11,12 @@
 
 #if defined(USE_SYSTEM_SPEEX)
 #include <speex/speex.h>
+#include <speex/speex_callbacks.h>
+#include <speex/speex_stereo.h>
 #else
 #include "third_party/speex/include/speex/speex.h"
+#include "third_party/speex/include/speex/speex_callbacks.h"
+#include "third_party/speex/include/speex/speex_stereo.h"
 #endif
 
 #endif  // THIRD_PARTY_SPEEX_SPEEX_H_
