@@ -12,7 +12,7 @@
         {
           'target_name': 'libspeex',
           'product_name': 'speex',
-          'type': '<(library)',
+          'type': 'static_library',
           'sources': [
             'libspeex/arch.h',
             'libspeex/bits.c',
